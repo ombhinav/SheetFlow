@@ -18,7 +18,7 @@
 2. [Project Structure](#project-structure)
 3. [Setup Instructions](#setup-instructions)
 4. [Generating OAuth2 Token](#generating-oauth2-token)
-5. [Environment Variables](#environment-variables)
+5. [Environment Variables](#setup-instructions)
 6. [How It Works](#how-it-works)
 7. [Syncing Data from MySQL to Google Sheets](#syncing-data-from-mysql-to-google-sheets)
 8. [Available Commands](#available-commands)
@@ -77,7 +77,7 @@ SheetFlow \
 └── README.md              # Project documentation \
 
 ## Setup Instructions
-1. Configure Environment Variables \
+1. Configure Environment Variables 
 
   Create a .env file in the root directory and add your database credentials:
   ```bash
@@ -144,6 +144,19 @@ node syncToSheets.js
 ```bash
 node auth.js
 ```
+## Technologies Used
 
+- Node.js for server and backend processing.
+- Google Sheets API for interacting with Google Sheets.
+- MySQL for database management.
+- Google OAuth2 for secure access to Google services.
+
+## Contributing
+
+If you would like to contribute to the project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
