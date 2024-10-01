@@ -2,6 +2,11 @@
 
 **SheetFlow** is a modern data synchronization tool designed to effortlessly sync data between Google Sheets and a MySQL database. It supports real-time updates, inserts, deletions, and ensures consistency between both platforms. This tool also provides bi-directional synchronization—data from Google Sheets to MySQL and vice versa.
 
+## Quick Demonstration
+
+
+https://github.com/user-attachments/assets/1b7667b3-1693-47a2-9757-09687a04685f
+
 ## Features
 
 - Sync Google Sheets data with MySQL.
@@ -14,18 +19,22 @@
 
 ## Table of Contents
 
-1. [Getting Started](#getting-started)
-2. [Project Structure](#project-structure)
-3. [Setup Instructions](#setup-instructions)
-4. [Generating OAuth2 Token](#generating-oauth2-token)
-5. [Environment Variables](#setup-instructions)
-6. [How It Works](#how-it-works)
-7. [Syncing Data from MySQL to Google Sheets](#syncing-data-from-mysql-to-google-sheets)
-8. [Available Commands](#available-commands)
-9. [Technologies Used](#technologies-used)
-10. [Contributing](#contributing)
+1. [Quick Demonstration](#quick-demonstration)
+2. [Getting Started](#getting-started)
+3. [Project Structure](#project-structure)
+4. [Setup Instructions](#setup-instructions)
+5. [Generating OAuth2 Token](#generating-oauth2-token)
+6. [Environment Variables](#setup-instructions)
+7. [How It Works](#how-it-works)
+8. [Syncing Data from MySQL to Google Sheets](#syncing-data-from-mysql-to-google-sheets)
+9. [Available Commands](#available-commands)
+10. [Technologies Used](#technologies-used)
+11. [Contributing](#contributing)
 
 ---
+
+
+
 
 ## Getting Started
 
